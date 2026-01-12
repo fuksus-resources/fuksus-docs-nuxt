@@ -1,8 +1,8 @@
 ---
 seo:
   title: Fuksus resources documentation
-  titleTemplate: '%s | Fuksus resources'
-  description: 'Quickly find answers to common questions and explore detailed guides on using Fuksus resources effectively.'
+  titleTemplate: "%s | Fuksus resources"
+  description: Welcome to Fuksus Resources documentation!
 ---
 
 ::u-page-hero
